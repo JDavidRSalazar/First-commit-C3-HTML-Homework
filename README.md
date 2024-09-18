@@ -1,2 +1,2 @@
-# Homework
-Repositorio en donde esta almacena todos los trabajos practicos por cada modulo (Homeworks)
+# Homework C3 HTML
+Repository where it stores all the practical work for each module (Homeworks)
